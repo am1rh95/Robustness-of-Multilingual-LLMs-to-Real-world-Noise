@@ -1,0 +1,92 @@
+{
+    "all_results": [
+        {
+            "en": {
+                "clean_accuracy": 81.71428571428572,
+                "noisy_accuracy": 80.5
+            },
+            "de": {
+                "clean_accuracy": 78.14285714285715,
+                "noisy_accuracy": 77.07142857142857
+            },
+            "es": {
+                "clean_accuracy": 75.21428571428571,
+                "noisy_accuracy": 73.07142857142857
+            },
+            "fr": {
+                "clean_accuracy": 73.0,
+                "noisy_accuracy": 71.21428571428572
+            },
+            "hi": {
+                "clean_accuracy": 68.71428571428572,
+                "noisy_accuracy": 65.85714285714286
+            }
+        },
+        {
+            "en": {
+                "clean_accuracy": 95.0,
+                "noisy_accuracy": 93.92857142857143
+            },
+            "de": {
+                "clean_accuracy": 94.64285714285714,
+                "noisy_accuracy": 93.5
+            },
+            "es": {
+                "clean_accuracy": 94.28571428571428,
+                "noisy_accuracy": 92.21428571428572
+            },
+            "fr": {
+                "clean_accuracy": 93.35714285714286,
+                "noisy_accuracy": 92.57142857142857
+            },
+            "hi": {
+                "clean_accuracy": 90.85714285714286,
+                "noisy_accuracy": 88.78571428571429
+            }
+        },
+        {
+            "en": {
+                "clean_accuracy": 98.5,
+                "noisy_accuracy": 97.57142857142857
+            },
+            "de": {
+                "clean_accuracy": 98.14285714285714,
+                "noisy_accuracy": 97.0
+            },
+            "es": {
+                "clean_accuracy": 97.78571428571429,
+                "noisy_accuracy": 96.85714285714285
+            },
+            "fr": {
+                "clean_accuracy": 97.5,
+                "noisy_accuracy": 96.92857142857143
+            },
+            "hi": {
+                "clean_accuracy": 96.35714285714285,
+                "noisy_accuracy": 94.92857142857143
+            }
+        }
+    ],
+    "average_results": {
+        "en": {
+            "clean_accuracy": 91.73809523809524,
+            "noisy_accuracy": 90.66666666666667
+        },
+        "de": {
+            "clean_accuracy": 90.30952380952381,
+            "noisy_accuracy": 89.19047619047619
+        },
+        "es": {
+            "clean_accuracy": 89.09523809523809,
+            "noisy_accuracy": 87.38095238095237
+        },
+        "fr": {
+            "clean_accuracy": 87.95238095238096,
+            "noisy_accuracy": 86.90476190476191
+        },
+        "hi": {
+            "clean_accuracy": 85.30952380952381,
+            "noisy_accuracy": 83.1904761904762
+        }
+    }
+}

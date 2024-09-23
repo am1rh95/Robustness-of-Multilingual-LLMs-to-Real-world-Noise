@@ -1,0 +1,22 @@
+{
+    "en": {
+        "clean_accuracy": 99.07142857142858,
+        "noisy_accuracy": 98.5
+    },
+    "de": {
+        "clean_accuracy": 98.78571428571429,
+        "noisy_accuracy": 98.57142857142858
+    },
+    "es": {
+        "clean_accuracy": 98.78571428571429,
+        "noisy_accuracy": 98.35714285714286
+    },
+    "fr": {
+        "clean_accuracy": 98.78571428571429,
+        "noisy_accuracy": 98.71428571428571
+    },
+    "hi": {
+        "clean_accuracy": 98.71428571428571,
+        "noisy_accuracy": 98.28571428571429
+    }
+}

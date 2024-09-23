@@ -1,0 +1,44 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "tokens": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "ner_tags": {
+      "feature": {
+        "names": [
+          "O",
+          "B-PER",
+          "I-PER",
+          "B-ORG",
+          "I-ORG",
+          "B-LOC",
+          "I-LOC"
+        ],
+        "_type": "ClassLabel"
+      },
+      "_type": "Sequence"
+    },
+    "langs": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "spans": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

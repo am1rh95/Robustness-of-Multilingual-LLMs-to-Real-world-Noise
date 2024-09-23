@@ -1,0 +1,9 @@
+#!/bin/bash
+#SBATCH --partition=A40devel
+#SBATCH --time=01:00:00
+#SBATCH --gpus=4
+#SBATCH --ntasks=1
+ 
+# module load Python
+# python /fine_tune_IC_ntime.py
+deepspeed --num_gpus=4 /fine_tune_NER_ntime.py

@@ -1,0 +1,24 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "premise": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "hypothesis": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "label": {
+      "names": [
+        "entailment",
+        "neutral",
+        "contradiction"
+      ],
+      "_type": "ClassLabel"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

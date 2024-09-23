@@ -1,0 +1,26 @@
+{
+    "en": {
+        "clean_accuracy": 78.30339321357286,
+        "noisy_accuracy": 69.16167664670658
+    },
+    "de": {
+        "clean_accuracy": 73.67265469061877,
+        "noisy_accuracy": 68.54291417165669
+    },
+    "es": {
+        "clean_accuracy": 74.51097804391217,
+        "noisy_accuracy": 69.34131736526946
+    },
+    "fr": {
+        "clean_accuracy": 74.63073852295409,
+        "noisy_accuracy": 69.9001996007984
+    },
+    "hi": {
+        "clean_accuracy": 66.9061876247505,
+        "noisy_accuracy": 63.612774451097806
+    },
+    "tr": {
+        "clean_accuracy": 69.92015968063873,
+        "noisy_accuracy": 66.82634730538922
+    }
+}
